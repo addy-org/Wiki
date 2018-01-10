@@ -4,7 +4,7 @@
 
 Official Documentation Website for Addy, based on a Jekyll Theme named [Paper](https://github.com/mkchoi212/paper-jekyll-theme)
 
-### Website hosted at https://www.addy.wiki/
+### Website hosted at [addy.wiki](http://addy.wiki)
 
 ## Gitter channel link
 https://gitter.im/addy-org
