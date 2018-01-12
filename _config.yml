@@ -8,7 +8,6 @@ email: addy-org@googlegroups.com
 twitter_username: addy_org
 github_username: addy-org
 gitter_username: addy-org
-favicon: "../../../favicon.ico"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://addy.wiki" # the base hostname & protocol for your site
