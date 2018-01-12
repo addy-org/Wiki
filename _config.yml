@@ -18,7 +18,7 @@ disqus_id:
 # Build settings
 include: [_pages]
 markdown: kramdown
-permalink: :title
+permalink: /:title/
 
 sass:
     style: compressed
