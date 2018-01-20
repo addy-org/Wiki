@@ -18,6 +18,11 @@ disqus_id:
 # Build settings
 include: [_pages]
 markdown: kramdown
+collections:
+  documentation:
+    output: true
+    permalink: /:name
+
 permalink: /:title/
 
 sass:
