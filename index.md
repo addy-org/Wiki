@@ -5,7 +5,7 @@ title: Docs
 
 <section class="c-archives">
 <ul class="c-archives__list">
-  {% for post in site.posts  %}
+  {% for post in site.documentation  %}
     <li class="c-archives__item">
       <h3>
         <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
