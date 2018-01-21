@@ -124,4 +124,4 @@ The meaning of `myfork` is explained in step 3 of this guide. The Pull Request w
 
 >**Note:** If you need help picking up an issue, you can always ask us and we’ll help you!
 
-// Credits: our friends at [coala](coala.io)
+*// Credits: our friends at [coala](coala.io)*
