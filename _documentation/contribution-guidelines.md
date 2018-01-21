@@ -16,7 +16,7 @@ If your are new to git or GitHub, the following articles may help you:
 
 * See [Fork A Repo](http://help.github.com/forking/) for an introduction to forking a repository and creating branches.
 
-* See [Git tutorial]("../git-tutorial") for better understanding of the concept of git & GitHub
+* See [Git tutorial](../git-tutorial) for better understanding of the concept of git & GitHub
 
 ## Setting up user information
 
@@ -35,7 +35,7 @@ Write a test case *before* fixing the bug (so that you will know that the test c
 
 ## Adding a new feature
 
-* It is important to write a [good commit message]("../commit-guidelines") explaining **why** the feature is needed. We prefer that the information is in the commit message, so that anyone that want to know two years later why a particular feature can easily find out. *It does no harm to provide the same information in the pull request*.
+* It is important to write a [good commit message](../commit-guidelines) explaining **why** the feature is needed. We prefer that the information is in the commit message, so that anyone that want to know two years later why a particular feature can easily find out. *It does no harm to provide the same information in the pull request*.
 
 * With few exceptions, it is mandatory to write a new test case that tests the feature. The test case is needed to ensure that the features does not stop working in the future.
 
@@ -50,7 +50,7 @@ Write a test case *before* fixing the bug (so that you will know that the test c
 - Make sure existing test cases don't fail. It is not necessary to run all tests (that would take many hours), but you should at least run the tests for the application you have changed.
 
 - Make sure that your branch contains clean commits:
-  - Follow the guidelines for [writing good commit messages]("../commit-guidelines").
+  - Follow the guidelines for [writing good commit messages](../commit-guidelines).
   - Make separate commits for separate changes. If you cannot describe what the commit does in one sentence, it is probably a mix of changes and should be separated into several commits.
   - Use `git rebase` if you need to resolve merge conflicts or include the latest changes.
   - Check for unnecessary whitespace before committing with `git diff --check`.
