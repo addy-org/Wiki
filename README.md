@@ -1,6 +1,7 @@
-# <img src="https://github.com/addy-org/Wiki/blob/master/readme_assets/logo.png" alt="Addy" height="42" width="42"></img>  Addy-Wiki
+# <img src="https://raw.githubusercontent.com/addy-org/Wiki/master/readme_assets/logo.png" alt="Addy" height="42" width="42"></img>  Addy-Wiki
 
 [![Join the chat at https://gitter.im/addy-org/Wiki](https://badges.gitter.im/addy-org/Wiki.svg)](https://gitter.im/addy-org/Wiki?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/addy-org/Wiki.svg?branch=master)](https://travis-ci.org/addy-org/Wiki)
 
 Official Documentation Website for Addy, based on a Jekyll Theme named [Paper](https://github.com/mkchoi212/paper-jekyll-theme)
 
@@ -18,15 +19,35 @@ rake preview
 
 Then, go to your favourite browser and type in the address `http://127.0.0.1:YOUR_PORT_NUM_HERE`
 
-### Customisation
-To customise various details - title/description of the website, your SNS account names, etc - edit the `_config.yml` file.
+## Adding Documentations
 
-### Adding posts
+For adding a documentation, just create a new file in the `_documentations` folder. It will automatically be listed in the docs section. Follow the below format.
+
+*Note: The file name will be the link of the post you added, like `https://addy.wiki/<FILE_NAME>/`*
+
+```Markdown
+---
+layout: post
+title: "<YOUR-TITLE-HERE>"
+description: "<WRITE-A-SHORT-DESCRIPTION-ABOUT-THE-POST>"
+tags: <INDIVIDUAL-TAGS-SEPARATED-BY-SPACE>
+comments: true
+---
+
+<YOUR-CONTENT-HERE-IN-GITHUB-FLAVOURED-MARKDOWN>
 ```
-rake post title="A Title" [date="2012-02-09"] [tags=[tag1,tag2]] [category="category"]
+
+## Adding Pages
+
+For adding a new page, create a new file in the `_pages` folder. A page is not listed automatically, you have to link it to appropriate places.
+
+```Markdown
+---
+layout: content
+title: "<YOUR-TITLE-HERE>"
+description: "<WRITE-A-SHORT-DESCRIPTION>" //optional
+permalink: /<LINK-TO-THE-POST>/
+---
+
+<YOUR-CONTENT-HERE-IN-GITHUB-FLAVOURED-MARKDOWN>
 ```
-This will create a markdown file in the default folder where all posts are stored in Jekyll; `_post`.
-
-If you wish to **change the directory where posts are saved**, go to the `Rakefile` and edit the `CONFIG = { 'posts': CUSTOM_PATH_HERE }`. This will allow `rake post` to know where to save the new posts to.
-
-The **drafts** you are working on can be saved in the `_drafts` directory. When you push your code to the server, files in this directory will NOT be included to the list o posts.
