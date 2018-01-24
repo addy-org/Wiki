@@ -3,7 +3,7 @@ layout: content
 title: About
 permalink: /about/
 ---
-Addy is an app that enhances the addressing system of the world. Instead of remembering long addresses, Addy generates a unique 7-digit code based on the latitudinal and longitudinal coordinates of any position. The code is so accurate that every building in the world has been assigned a different 'Addy' with a minimum distance of 11.132 meters.
+Addy is a technology that enhances the addressing system of the world. Instead of remembering long addresses, Addy generates a unique 7-digit code based on the latitudinal and longitudinal coordinates of any position. The code is so accurate that every building in the world has been assigned a different 'Addy' with a minimum distance of 11.132 meters.
 
 ----
 
