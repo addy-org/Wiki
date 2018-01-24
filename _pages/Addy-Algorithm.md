@@ -2,7 +2,7 @@
 layout: content
 title: "Addy-Algorithm"
 description: "Wiki page of addy-org/Addy-Algorithm project"
-permalink: /Addy-Algorithm/
+permalink: /addy-algorithm/
 ---
 
 [![Join the chat at https://gitter.im/addy-org/Lobby](https://badges.gitter.im/addy-org/Lobby.svg)](https://gitter.im/addy-org/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)

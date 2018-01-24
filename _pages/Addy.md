@@ -2,7 +2,7 @@
 layout: content
 title: "Addy"
 description: "Wiki page of addy-org/Addy project"
-permalink: /Addy/
+permalink: /addy/
 ---
 
 [![Build Status](https://travis-ci.org/addy-org/Addy-React-Native.svg?branch=master)](https://travis-ci.org/addy-org/Addy-React-Native)

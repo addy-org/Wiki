@@ -2,7 +2,7 @@
 layout: content
 title: "Addy-React"
 description: "Wiki page of addy-org/Addy-React project"
-permalink: /Addy-React/
+permalink: /addy-react/
 ---
 [![Join the chat at https://gitter.im/addy-org/Addy-React](https://badges.gitter.im/addy-org/Addy-React.svg)](https://gitter.im/addy-org/Addy-React?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/addy-org/Addy-React.svg?branch=master)](https://travis-ci.org/addy-org/Addy-React)

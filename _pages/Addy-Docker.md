@@ -2,7 +2,7 @@
 layout: content
 title: "Addy-Docker"
 description: "Wiki page of addy-org/Addy-Docker project"
-permalink: /Addy-Docker/
+permalink: /addy-docker/
 ---
 
 [![Join the chat at https://gitter.im/addy-org/Lobby](https://badges.gitter.im/addy-org/Lobby.svg)](https://gitter.im/addy-org/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
