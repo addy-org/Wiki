@@ -21,7 +21,7 @@ markdown: kramdown
 collections:
   documentation:
     output: true
-    permalink: /:name
+    permalink: /:name/
 
 permalink: /:title/
 
