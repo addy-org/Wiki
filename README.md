@@ -10,6 +10,9 @@ Official Documentation Website for Addy, based on a Jekyll Theme named [Paper](h
 ## Gitter channel link
 https://gitter.im/addy-org
 
+## Contribution Guidelines
+https://addy.wiki/contribution-guidelines
+
 ## Running the site in your local system
 ```
 git clone https://github.com/addy-org/Wiki
@@ -51,3 +54,6 @@ permalink: /<LINK-TO-THE-POST>/
 
 <YOUR-CONTENT-HERE-IN-GITHUB-FLAVOURED-MARKDOWN>
 ```
+
+## Getting Started with Contributing:
+https://addy.wiki/newcomers-guide
