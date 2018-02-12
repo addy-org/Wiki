@@ -2,7 +2,7 @@
 layout: post
 title: "GSoC Project Proposal Template"
 description: "Template for GSoC Proposal for Addy"
-tags: Project-Proposal Template Google-Summer-of-Code GSoC 2018 
+tags: Project-Proposal Template Google-Summer-of-Code GSoC 2019 
 comments: true
 ---
 
