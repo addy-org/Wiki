@@ -9,8 +9,8 @@ twitter_username: addy_org
 github_username: addy-org
 gitter_username: addy-org
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://addy.wiki" # the base hostname & protocol for your site
+baseurl: "/Wiki" 
+url: "https://addy-org.github.io"
 
 google_analytics_id: UA-96193556-1
 disqus_id:

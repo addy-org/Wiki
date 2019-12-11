@@ -280,6 +280,4 @@ This section will briefly explain some other Git commands you will most likely u
 
 If you would like more information/commands, please use your favourite search engine to look for it. Git is widely used throughout the world and there are many good tutorials and git related Q&A threads out there.
 
-*// Credits: our friends at [coala](coala.io)*
-
 You can also visit [ohshitgit.com](http://ohshitgit.com/), a great site to help you ***git out of you git messes*** really quickly.

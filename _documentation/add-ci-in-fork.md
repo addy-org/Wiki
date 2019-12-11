@@ -31,6 +31,3 @@ We require 100% test coverage, and to test that we use codecov.io which takes da
 3. Click on “Add new repository” and it will take you to a page that lists all your repositories. Choose the forked repository for which you want to enable codecov.
 4. Like other CI, this also has a configuration file, .codecov.yml file which your forked repository will already have. The CI uploads the test reports to codecov, which then creates an overall coverage report.
 5. You can watch the reports at codecov.io/gh/*username*/*repository*
-
-
-*// Credits: our friends at [coala](coala.io)*

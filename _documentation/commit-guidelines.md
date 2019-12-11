@@ -96,5 +96,3 @@ The recommendation is to add a line break at 72 characters, so that Git has plen
 If you have previously made a commit and update it on a later date, it is advisable to also update the commit message accordingly.
 
 In order to do this one can use the amend function as is described [here](../git-tutorial).
-
-*// Credits: our friends at [coala](coala.io)*

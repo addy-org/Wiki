@@ -123,5 +123,3 @@ The meaning of `myfork` is explained in step 3 of this guide. The Pull Request w
 **Congratulations!** Your PR just got accepted! You’re awesome. Now you should tell us about your experience and go for a low level issue - they are really rewarding!
 
 >**Note:** If you need help picking up an issue, you can always ask us and we’ll help you!
-
-*// Credits: our friends at [coala](coala.io)*
