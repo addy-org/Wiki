@@ -5,13 +5,13 @@
 
 Official Documentation Website for Addy, based on a Jekyll Theme named [Paper](https://github.com/mkchoi212/paper-jekyll-theme)
 
-### Website hosted at [addy.wiki](http://addy.wiki)
+### Website hosted at [https://addy-org.github.io/Wiki](https://addy-org.github.io/Wiki)
 
 ## Gitter channel link
 https://gitter.im/addy-org
 
 ## Contribution Guidelines
-https://addy.wiki/contribution-guidelines
+https://addy-org.github.io/Wiki/contribution-guidelines
 
 ## Running the site in your local system
 ```
@@ -26,7 +26,7 @@ Then, go to your favourite browser and type in the address `http://127.0.0.1:YOU
 
 For adding a documentation, just create a new file in the `_documentations` folder. It will automatically be listed in the docs section. Follow the below format.
 
-*Note: The file name will be the link of the post you added, like `https://addy.wiki/<FILE_NAME>/`*
+*Note: The file name will be the link of the post you added, like `https://addy-org.github.io/Wiki/<FILE_NAME>/`*
 
 ```Markdown
 ---
@@ -56,4 +56,4 @@ permalink: /<LINK-TO-THE-POST>/
 ```
 
 ## Getting Started with Contributing:
-https://addy.wiki/newcomers-guide
+https://addy-org.github.io/Wiki/newcomers-guide

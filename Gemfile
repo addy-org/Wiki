@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem "github-pages"
 gem "jekyll", "3.4.3"
 gem "html-proofer"
 gem "rb-fsevent", "0.9.8"
